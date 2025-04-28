@@ -1,6 +1,6 @@
-[]Build Array from Permutation
-[]Concatenation of Array
-[]Running Sum of 1d Array
+[x]Build Array from Permutation
+[x]Concatenation of Array
+[x]Running Sum of 1d Array
 []Richest Customer Wealth
 []Shuffle the Array
 []Kids With the Greatest Number of Candies
@@ -31,13 +31,13 @@
 []Spiral Matrix II
 []Spiral Matrix III
 []Set Matrix Zeroes
-[]Product of Array Except Self
+[x]Product of Array Except Self
 []Find First and Last Position of Element in Sorted Array
 []Jump Game
 []Rotate Array
-[]Sort Colors
+[x]Sort Colors
 []House Robber
 []Hard
 []Max Value of Equation
-[]First Missing Positive
+[x]First Missing Positive
 []Good Array
