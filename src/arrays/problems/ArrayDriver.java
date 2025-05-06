@@ -1,6 +1,6 @@
 package arrays.problems;
 
-import arrays.problems.basic.FirstMissingPositive;
+import arrays.problems.basic.EvenDigits;
 
 public class ArrayDriver {
 
@@ -11,7 +11,8 @@ public class ArrayDriver {
         /*SortColors.sortColors(nums);
         System.out.println(Arrays.toString(nums));*/ //75
         //System.out.println(Arrays.toString(ProductExceptSelf.productExceptSelf(nums))); //238
-        System.out.println(FirstMissingPositive.firstMissingPositive(nums));
+        //System.out.println(FirstMissingPositive.firstMissingPositive(nums));
+        System.out.println(EvenDigits.findNumbers(nums)); //1295
     }
 
 }

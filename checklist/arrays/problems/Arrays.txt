@@ -13,7 +13,7 @@
 []Flipping an Image
 []Cells with Odd Values in a Matrix
 []Matrix Diagonal Sum
-[]Find Numbers with Even Number of Digits
+[x]Find Numbers with Even Number of Digits
 []Transpose Matrix
 []Add to Array-Form of Integer
 []Maximum Population Year
