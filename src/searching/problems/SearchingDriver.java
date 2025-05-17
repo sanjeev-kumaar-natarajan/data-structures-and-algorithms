@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class SearchingDriver {
     public static void main(String[] args) {
-        int[] nums = {1, 2, 4, 5};
+        int[] nums = {10, 2, 5, 3};
         char[] letters = {'c', 'f', 'j'};
         //System.out.println(Ceiling.ceiling(nums, 3));
         //System.out.println(Floor.floor(nums, 3));
@@ -22,7 +22,11 @@ public class SearchingDriver {
         //System.out.println(SquareRoot.mySqrt(8)); //69
         //System.out.println(PerfectSquare.isPerfectSquare(808201)); // 367
         //System.out.println(ArrangeCoins.arrangeCoins(1804289383)); //441
-        System.out.println(InsertPosition.searchInsert(nums, 3));
+        //System.out.println(InsertPosition.searchInsert(nums, 3)); //35
+        //System.out.println(Arrays.toString(TwoSum.twoSum(nums, 9))); //167
+        //System.out.println(SearchInRotatedSortedArray.search2(nums, 13));
+        //System.out.println(FindMinimum.findMin(nums));
+        System.out.println(NandDouble.checkIfExist(nums));
     }
 
 }
