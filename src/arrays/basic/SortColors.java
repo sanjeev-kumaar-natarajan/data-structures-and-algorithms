@@ -1,4 +1,4 @@
-package arrays.problems.basic;
+package arrays.basic;
 
 /**
  * LeetCode - 75
