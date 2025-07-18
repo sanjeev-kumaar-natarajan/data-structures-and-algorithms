@@ -1,6 +1,6 @@
 package arrays.problems;
 
-import arrays.problems.basic.FirstMissingPositive;
+import arrays.basic.FirstMissingPositive;
 
 public class ArrayDriver {
 
