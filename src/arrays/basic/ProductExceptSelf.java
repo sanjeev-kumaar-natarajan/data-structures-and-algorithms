@@ -1,4 +1,4 @@
-package arrays.problems.basic;
+package arrays.basic;
 
 import java.util.Arrays;
 

@@ -1,7 +1,4 @@
-package arrays.problems;
-
-import arrays.problems.basic.CheckPangram;
-import arrays.problems.basic.EvenDigits;
+package arrays.basic;
 
 public class ArrayDriver {
 
