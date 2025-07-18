@@ -1,4 +1,4 @@
-package arrays.basic;
+package arrays.problems.basic;
 
 public class CheckPangram {
     public static boolean checkIfPangram(String sentence) {

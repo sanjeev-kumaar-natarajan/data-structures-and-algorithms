@@ -1,4 +1,4 @@
-package arrays.basic;
+package arrays.problems.basic;
 
 /**
  * LeetCode - 1295
