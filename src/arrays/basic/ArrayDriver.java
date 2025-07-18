@@ -1,6 +1,4 @@
-package arrays.problems;
-
-import arrays.basic.CheckPangram;
+package arrays.basic;
 
 public class ArrayDriver {
 
