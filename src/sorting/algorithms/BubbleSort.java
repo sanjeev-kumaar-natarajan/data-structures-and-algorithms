@@ -4,23 +4,22 @@ import java.util.Arrays;
 
 public class BubbleSort {
     public static void main(String[] args) {
-        int[] nums = {3, 1, 2, 5, 4};
+        int[] nums = {-1, 0, -3};
         bubbleSort(nums);
         System.out.println(Arrays.toString(nums));
     }
 
     public static void bubbleSort(int[] nums) {
-        for (int i = 0; i < nums.length - 1; i++) {
-            boolean swapped = false;
-            for (int j = 0; j < nums.length - i - 1; j++) {
+        for (int i = 0; i < nums.length; i++) {
+            boolean isSwapped = false;
+            for (int j = 0; j < nums.length - 1 - i; j++) {
                 if (nums[j] > nums[j + 1]) {
                     swap(nums, j, j + 1);
-                    swapped = true;
+                    isSwapped = true;
                 }
             }
-            if (!swapped) {
+            if (!isSwapped)
                 break;
-            }
         }
     }
 
