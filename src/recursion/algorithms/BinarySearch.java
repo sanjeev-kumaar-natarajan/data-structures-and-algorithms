@@ -1,4 +1,4 @@
-package recursion.basic;
+package recursion.algorithms;
 
 public class BinarySearch {
     public static int binarySearch(int[] nums, int start, int end, int target) {

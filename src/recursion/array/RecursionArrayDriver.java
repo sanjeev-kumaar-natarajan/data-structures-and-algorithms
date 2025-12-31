@@ -1,10 +1,4 @@
-package recursion;
-
-import recursion.array.IsSorted;
-import recursion.array.LinearSearch;
-
-import java.util.ArrayList;
-import java.util.List;
+package recursion.array;
 
 public class RecursionArrayDriver {
     public static void main(String[] args) {

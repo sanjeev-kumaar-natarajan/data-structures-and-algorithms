@@ -1,6 +1,4 @@
-package recursion;
-
-import recursion.basic.NumberOfSteps;
+package recursion.basic;
 
 public class RecursionBasicDriver {
     public static void main(String[] args) {
